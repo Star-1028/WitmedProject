@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WitmedProject.iml" filepath="$PROJECT_DIR$/WitmedProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witmed-parent/witmed-parent.iml" filepath="$PROJECT_DIR$/witmed-parent/witmed-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witmed-registry/witmed-registry.iml" filepath="$PROJECT_DIR$/witmed-registry/witmed-registry.iml" />
+    </modules>
+  </component>
+</project>
