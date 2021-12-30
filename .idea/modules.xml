@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WitmedProject.iml" filepath="$PROJECT_DIR$/WitmedProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witmed/witmed.iml" filepath="$PROJECT_DIR$/witmed/witmed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witmed-commons/witmed-commons.iml" filepath="$PROJECT_DIR$/witmed-commons/witmed-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witmed-data-commons/witmed-data-commons.iml" filepath="$PROJECT_DIR$/witmed-data-commons/witmed-data-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/witmed-parent/witmed-parent.iml" filepath="$PROJECT_DIR$/witmed-parent/witmed-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/witmed-registry/witmed-registry.iml" filepath="$PROJECT_DIR$/witmed-registry/witmed-registry.iml" />
     </modules>
